@@ -6,7 +6,7 @@
 ---
 
 # Henrique de Moraes Segatto
-Estudante de Sistemas de Informação, com interesse em desenvolvimento Java, Python, Data Science e Inteligência artificial
+Estudante de Sistemas de Informação, com interesse em desenvolvimento com Java e Python, Ciência de dados e Inteligência artificial
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/riksegatto/)
