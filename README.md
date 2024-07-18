@@ -6,7 +6,7 @@
 ---
 
 # Henrique de Moraes Segatto
-Information Systems student, focused in Java and Python development, love Studying about Data Science and Analysis, Cybersecurity and A.I.
+Information Systems student, focused in Java and Python development, love Studying about Data Science, Data Analytics, Cybersecurity and A.I.
 
 ### Connect with me
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/riksegatto/)
